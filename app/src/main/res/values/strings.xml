@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="count_label">Q%d</string>
+    <string name="btn_popularity">人気順</string>
+    <string name="btn_newest">新しい順</string>
+    <string name="btn_good">高評価</string>
+    <string name="btn_bad">低評価</string>
+    <string name="replies_label">%d件の返信</string>
+    <string name="hint_comment">コメントする</string>
+    <string name="btn_post_comment">コメントする</string>
+    <string name="upvoteCountTextView">%d</string>
+    <string name="downvoteCountTextView">%d</string>
+</resources>
+
+
+
